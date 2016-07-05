@@ -1,6 +1,4 @@
 # renamer
-Another Perl file renaming script...
-
 Parse file names and directory names for special characters: ' " # \ [] | {} () ; , ~ ! @ $ % ^ * ? ` < >
 
 Replacing characters ' " # with an (-) hyphen<br />
